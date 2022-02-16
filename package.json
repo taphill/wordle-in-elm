@@ -1,0 +1,16 @@
+{
+  "name": "elm-template",
+  "author": "Taylor Phillips",
+  "version": "1.0.0",
+  "description": "A starter template for Elm apps",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx parcel index.html --port 3000"
+  },
+  "devDependencies": {
+    "@parcel/transformer-elm": "^2.3.1",
+    "elm": "^0.19.1-5",
+    "parcel": "^2.3.1"
+  }
+}
